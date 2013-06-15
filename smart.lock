@@ -1,0 +1,21 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "blade": {},
+      "define": {}
+    },
+    "packages": {
+      "blade": {
+        "git": "https://github.com/bminer/meteor-blade.git",
+        "tag": "v3.2.6meteor1",
+        "commit": "f0810fd031781c84a9b5a14fd84c5b9d060ab336"
+      },
+      "define": {
+        "git": "https://github.com/apendua/require.git",
+        "tag": "v0.9.0.1",
+        "commit": "7594e5f0c0678ff47367f1bcd6b20d0ca4b7965c"
+      }
+    }
+  }
+}
