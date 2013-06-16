@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cafd899d-d662-41bb-9c3a-40708367e869" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/document-angular-view.blade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/body.blade" afterPath="$PROJECT_DIR$/views/body.blade" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/more.blade" afterPath="$PROJECT_DIR$/views/more.blade" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/ngMeteor.coffee" afterPath="$PROJECT_DIR$/client/ngMeteor.coffee" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/welcome.blade" afterPath="$PROJECT_DIR$/views/welcome.blade" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="cafd899d-d662-41bb-9c3a-40708367e869" name="Default" comment="" />
     <ignored path="example-meteor-and-ng-app.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="cafd899d-d662-41bb-9c3a-40708367e869" time="1371387814263" ignored="false" />
+    <file path="/Dummy.txt" changelist="cafd899d-d662-41bb-9c3a-40708367e869" time="1371388907644" ignored="false" />
     <file path="/body.blade" changelist="cafd899d-d662-41bb-9c3a-40708367e869" time="1371388830135" ignored="false" />
     <file path="/ngMeteor.coffee" changelist="cafd899d-d662-41bb-9c3a-40708367e869" time="1371388451945" ignored="false" />
     <file path="/welcome.blade" changelist="cafd899d-d662-41bb-9c3a-40708367e869" time="1371388745119" ignored="false" />
@@ -298,7 +289,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
