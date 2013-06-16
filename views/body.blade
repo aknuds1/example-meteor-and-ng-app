@@ -4,9 +4,11 @@ header
 
 article
     h1 Welcome!
+    p Example Meteor app making use of Angular with Blade, Coffeescript and Stylus.
     p
-        !
-            Example Meteor app making use of Angular with Blade, Coffeescript and Stylus.
+        |
+            This markup stems from the main template, body.blade, which Meteor renders as the body for each page.
+            The ngMeteor module is responsible for the latter behaviour.
 
     p(data-ng-view)
     p(data-ng-include="'included.blade'")
