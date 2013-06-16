@@ -16,6 +16,7 @@ define("ngMeteor", [], ->
       Meteor.startup(()->
         # Necessary?
         Spark.finalize(document.body)
+        $('html').attr('data-ng-app', '')
         $('body').html($compile(bodyTemplate())($rootScope))
         $rootScope.$apply()
       )
