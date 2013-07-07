@@ -5,3 +5,6 @@ Stylus.
 
 This project is based off of Daniel Olano's [ng-meteor](https://github.com/olanod/ng-meteor) Meteor package. 
 
+# Get started
+In order to try the application, first run npm install and then grunt. This will launch a local server via mrt.
+

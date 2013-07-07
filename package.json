@@ -1,0 +1,8 @@
+{
+  "name": "example-meteor-and-ng-app",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-shell": "~0.2.2",
+    "shelljs": "~0.1.4"
+  }
+}
