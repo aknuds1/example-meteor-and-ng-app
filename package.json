@@ -1,4 +1,5 @@
 {
+  "repository": "http://github.com/aknuds1/example-meteor-and-ng-app",
   "name": "example-meteor-and-ng-app",
   "devDependencies": {
     "grunt": "~0.4.1",
