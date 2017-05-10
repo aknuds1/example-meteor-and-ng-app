@@ -2,8 +2,8 @@
   "repository": "http://github.com/aknuds1/example-meteor-and-ng-app",
   "name": "example-meteor-and-ng-app",
   "devDependencies": {
-    "grunt": "~0.4.1",
-    "grunt-shell": "~0.2.2",
-    "shelljs": "~0.1.4"
+    "grunt": "~1.0.1",
+    "grunt-shell": "~2.1.0",
+    "shelljs": "~0.7.7"
   }
 }
