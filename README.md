@@ -1,4 +1,6 @@
 ## Meteor/Blade/Angular Example App
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/aknuds1/example-meteor-and-ng-app.svg)](https://greenkeeper.io/)
 Example Meteor application making use of Blade view templates and the Angular JavaScript framework. Instead of
 JavaScript we use CoffeeScript, which gets automatically compiled to JavaScript by the server. Instead of CSS we use
 Stylus.
